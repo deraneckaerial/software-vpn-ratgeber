@@ -1,0 +1,9 @@
+title: "Software & VPN Ratgeber"
+description: "VPN, Antivirus & Software im Vergleich"
+url: "https://deraneckaerial.github.io"
+baseurl: "/software-vpn-ratgeber"
+lang: de
+permalink: /:title/
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
